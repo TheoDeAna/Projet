@@ -16,6 +16,8 @@ void loop() {
   // put your main code here, to run repeatedly:
   data donnee ;
   donnee = lireInfo() ;
+
+
   
   if(CHOIX == "allLeds"){
     allLeds() ;
@@ -36,5 +38,4 @@ void loop() {
   if(CHOIX == "caterpillar"){
     caterpillar() ;
   }
-  
 }

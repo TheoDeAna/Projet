@@ -18,7 +18,7 @@ data lireInfo(){
 
     // On attend qu'une pulsation soit detectee et on conserve le temps correpondant a celle ci
     do{
-        valeur = 700;//analogRead(0) ;
+        valeur = analogRead(0) ;
         Serial.println(valeur) ;
         time = millis() ;
     }while(valeur < seuil) ;
