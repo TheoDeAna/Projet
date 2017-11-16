@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1510685970 source:c:\users\anton\documents\projet\generationcode\generationcode.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+
+1510686360 source:c:\users\anton\documents\projet\generationcode\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1510686360 source:c:\users\anton\documents\projet\generationcode\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"generationCode.h"
+
+1510686360 c:\users\anton\documents\projet\generationcode\menu.h
+
+1510685275 c:\users\anton\documents\projet\generationcode\generationcode.h
+
+1510756199 source:c:\users\anton\documents\projet\generationcode\main.c\generationcode.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+
+1510685275 c:\users\anton\documents\projet\generationcode\main.c\generationcode.h
+
+1510686360 source:c:\users\anton\documents\projet\generationcode\main.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"generationCode.h"
+
+1510686360 c:\users\anton\documents\projet\generationcode\main.c\menu.h
+
+1510686360 source:c:\users\anton\documents\projet\generationcode\main.c\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
